@@ -6,7 +6,6 @@
 
 #### * find sourceFile
 ```java
-// initAccessToken();
 File sourceFile = new File(Environment.getExternalStorageDirectory(), Constants.DEX_NAME);
 ```
 
